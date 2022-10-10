@@ -1,0 +1,30 @@
+{
+  "header": "Suivez-nous sur les médias sociaux",
+  "items": [
+    {
+      "platform": "facebook",
+      "url": "https://www.facebook.com/Monsterca",
+      "alt": "Monster Facebook"
+    },
+    {
+      "platform": "twitter",
+      "url": "https://twitter.com/Monsterca",
+      "alt": "Monster Twitter"
+    },
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/monster.ca/",
+      "alt": "Monster Instagram"
+    },
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/user/MonsterCanadaJobs",
+      "alt": "Monster YouTube"
+    },
+    {
+      "platform": "pinterest",
+      "url": "https://in.pinterest.com/monsterdotcom/",
+      "alt": "Monster Pinterest"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "header": "Find Us on Social Media",
+  "items": [
+    {
+      "platform": "facebook",
+      "url": "https://www.facebook.com/monster",
+      "alt": "Monster Facebook"
+    },
+    {
+      "platform": "twitter",
+      "url": "https://twitter.com/Monster",
+      "alt": "Monster Twitter"
+    },
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/monster/",
+      "alt": "Monster Instagram"
+    },
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/monster",
+      "alt": "Monster YouTube"
+    },
+    {
+      "platform": "pinterest",
+      "url": "https://in.pinterest.com/monsterdotcom/",
+      "alt": "Monster Pinterest"
+    },
+    {
+      "platform": "tiktok",
+      "url": "https://www.tiktok.com/@monsterjobs",
+      "alt": "Monster TikTok"
+    }
+  ]
+}
